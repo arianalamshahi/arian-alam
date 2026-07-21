@@ -1,22 +1,21 @@
-# Arian Alamshahi – portfolio-webbplats
+# Arian Alamshahi, personlig CV-webbplats
 
-## Innehåll
-- `index.html` – startsidan
-- `styles.css` – design och responsiv layout
-- `script.js` – mobilmeny, animationer och projektmodaler
-- `assets/` – favicon samt Arians valda CV i PDF-format
+Den här versionen är uppdaterad utifrån feedback om att sidan ska kännas mer personlig, mer i jag form och mindre som en traditionell B2B-portfolio.
 
-## Öppna lokalt
-Dubbelklicka på `index.html`. Ingen installation krävs.
+## Sidor
+- `index.html`, personlig startsida
+- `styrelsearbetet.html`, ordföranderollen och konkreta erfarenheter
+- `examensarbetet.html`, processen bakom uppsatsen
+- `digitalt-initiativ.html`, jobb och processportalen
+- `Arian_Alamshahi_CV.pdf`, CV-filen
 
-## Publicera
-Webbplatsen är statisk och kan publiceras genom exempelvis:
-- GitHub Pages
-- Netlify
-- Cloudflare Pages
-- valfritt vanligt webbhotell
+## Bilder som nu ingår
+- `assets/arian-portrait.jpg`, porträttbild
+- `assets/brf-stugan.jpg`, bild till erfarenheten om styrelsearbetet
+- `assets/sodertorn-logo.png`, Södertörns logotyp till examensarbetsdelen
 
-Ladda upp hela mappen, inte bara `index.html`, eftersom CV-filen, CSS och JavaScript ligger i separata filer.
+## Publicera på GitHub Pages
+Ladda upp samtliga filer och hela mappen `assets` direkt i repositoryts rot. Behåll filnamnen exakt.
 
-## Viktigt före offentlig publicering
-Kontrollera att telefonnummer och e-post ska vara offentliga. Casen är skrivna för att undvika konfidentiella leverantörsnamn och för att tydligt skilja mellan realiserade resultat och beräknad potential.
+## Uppdatera CV
+Ersätt `Arian_Alamshahi_CV.pdf` med den nya PDF-filen och behåll samma filnamn.
